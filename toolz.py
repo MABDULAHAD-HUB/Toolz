@@ -90,7 +90,7 @@ bg_image = None
 
 # Load and set a background image
 try:
-    image_path = r"\test.png"  # Ensure this path is correct
+    image_path = r"images\test.png"  # Ensure this path is correct
     if not os.path.exists(image_path):
         raise FileNotFoundError(f"The image file does not exist at {image_path}")
     
