@@ -1,0 +1,13 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment folders
+venv/
+env/
+
+# System files
+.DS_Store
+*.log
+.idea/
+.vscode/
