@@ -364,7 +364,7 @@ bg_image = None
 
 try:
 
-    image_path = r"/images/test.png"  # Ensure this path is correct
+    image_path = r"images/test.png"  # Ensure this path is correct
 
     if not os.path.exists(image_path):
 
