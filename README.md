@@ -33,7 +33,7 @@ To get started with Toolz, follow these steps:
 ### Install the required packages:
  Run the following command to install the packages listed in requirements.txt
 ```bash
-pip install -r requirements.txt
+pip install Pillow pillow_heif pdfminer.six python-docx fpdf
 ```
 
 ### Usage
