@@ -1,45 +1,34 @@
-# ![Toolz](https://img.shields.io/badge/Toolz-File%20Converter-blue?style=for-the-badge&logo=python&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+# Toolz - Advanced Converter Tool
 
-## 📚 Overview
+![License](https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge) ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge) ![Python Version](https://img.shields.io/badge/python-3.8%2B-yellow?style=for-the-badge)
 
-**Toolz** is an advanced file converter application that supports image and document conversion with a seamless user experience. Toolz provides a GUI to handle the most common conversion needs, including PDF to DOCX, JPG to PNG, and more.
+## Overview
 
----
+**Toolz** is a versatile converter tool designed to simplify file conversions across various formats. It features a user-friendly interface powered by Tkinter, allowing for efficient conversions of images, documents, and text files.
 
-## 🌟 Features
+## Table of Contents
 
-- **Image Converters**: 
-  - Convert PNG to JPG
-  - Convert JPG to PNG
-  - Convert HEIC to JPG
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Requirements](#requirements)
+- [Contact](#contact)
+- [License](#license)
 
-- **Document Converters**:
-  - Convert PDF to DOCX
-  - Convert DOCX to PDF
-  - Convert Text to PDF
-  - Convert PDF to Text
-  - Convert DOCX to Text
+## Features
 
-- **Interactive Progress Bar**: Real-time visual feedback during conversions.
-- **Aesthetic Design**: Modern, simple-to-use interface with a background image.
-- **File Selection Dialogs**: Intuitive input/output file selection system.
+- **Image Conversion**: JPG, PNG, HEIC
+- **Document Conversion**: PDF to DOCX, DOCX to PDF
+- **Text Conversion**: Text to PDF and extraction from PDF/DOCX
+- **Intuitive GUI**: Simple interface for easy navigation and use
 
----
+## Installation
 
-## 🚀 Installation
+To get started with Toolz, follow these steps:
 
-### Prerequisites
-
-You must have **Python 3.10** or later installed. [Download Python here](https://www.python.org/downloads/).
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/MABDULAHAD-HUB/toolz.git
-cd toolz
-```
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/toolz.git
 
 ### Install the required packages:
  Run the following command to install the packages listed in requirements.txt
