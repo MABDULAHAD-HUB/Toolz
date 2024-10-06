@@ -39,7 +39,7 @@ pip install Pillow pillow_heif pdfminer.six python-docx fpdf
 ### Usage
 Run the application by executing the following command in your terminal:
 ```bash
-python3 toolz.py
+python toolz.py
 ```
 
 ## License
