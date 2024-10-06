@@ -39,3 +39,26 @@ You must have **Python 3.10** or later installed. [Download Python here](https:/
 ```bash
 git clone https://github.com/yourusername/toolz.git
 cd toolz
+```
+
+### Install the required packages:
+ Run the following command to install the packages listed in requirements.txt
+```bash
+pip install -r requirements.txt
+```
+
+### Usage
+Run the application by executing the following command in your terminal:
+```bash
+python3 toolz.py
+```
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For questions, feedback, or suggestions, please contact:
+- Your Name - [abdulahadneriya@gmail.com](mailto:abdulahadneriya@gmail.com)
+- GitHub Profile: [profile](https://github.com/MABDULAHAD-HUB)
+
+We appreciate any contributions or suggestions to improve the project!
