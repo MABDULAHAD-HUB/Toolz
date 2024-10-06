@@ -11,7 +11,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Requirements](#requirements)
 - [Contact](#contact)
 - [License](#license)
 
