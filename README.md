@@ -28,6 +28,7 @@ To get started with Toolz, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/MABDULAHAD-HUB/toolz.git
+   cd toolz
 
 ### Install the required packages:
  Run the following command to install the packages listed in requirements.txt
